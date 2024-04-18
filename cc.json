@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": "chinacaring.com",
+      "domain_suffix": ".chinacaring.com"
+    }
+  ]
+}
